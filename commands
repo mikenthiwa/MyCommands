@@ -1,0 +1,2 @@
+Create a new migration file:
+ - npx sequelize-cli migration:generate --name migration-skeleton
